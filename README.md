@@ -1,6 +1,6 @@
 # Encyclopedia
 
-The program converts an encyclopedia from markdown article to html.
+The program converts an encyclopedia from markdown to html.
 
 # How to use
 
